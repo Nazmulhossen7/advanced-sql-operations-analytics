@@ -1,0 +1,7 @@
+issue_type,issue_count
+"Duplicate Claim IDs",35
+"Missing Payer",30
+"Paid > Allowed Amount",22
+"Submission Before Service Date",28
+"Denied Claim Missing Denial Reason",25
+"Negative Financial Values",15
