@@ -169,3 +169,9 @@ advanced-sql-operations-analytics/
 │
 ├── LICENSE
 └── README.md
+## Author
+
+**Nazmul Al Hossen**
+
+Data Analyst | SQL | Python | Statistics
+
