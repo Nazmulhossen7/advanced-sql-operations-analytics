@@ -1,0 +1,9 @@
+employee_id,employee_name,manager_id,level
+1,"Operations Director",NULL,1
+2,"Team Manager A",1,2
+3,"Team Manager B",1,2
+4,"Senior Analyst A",2,3
+7,"Senior Analyst B",3,3
+5,"Analyst A",4,4
+6,"Analyst B",4,4
+8,"Analyst C",7,4
